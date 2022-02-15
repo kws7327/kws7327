@@ -4,6 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kws7327)](https://solved.ac/kws7327)
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=kws7327&theme=ffe4e1)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kws7327)
 
